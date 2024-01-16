@@ -1,0 +1,28 @@
+[class*="col-"] {
+    padding: 10px;
+    font-size: 10px;
+    background-color: #fe5200;
+}
+
+
+body {
+    max-width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mt {
+    margin-top: 20px;
+}
+
+.black {
+    background-color: black;
+}
+
+.blue {
+    background-color: #0065ca;
+}
+
+.white {
+    background-color: white;
+}
