@@ -140,21 +140,6 @@
     max-width: calc((100% / 27) * 15);
 }
 
-.col-16 {
-    flex-basis: calc((100% / 27) * 16);
-    max-width: calc((100% / 27) * 16);
-}
-
-.col-17 {
-    flex-basis: calc((100% / 27) * 17);
-    max-width: calc((100% / 27) * 17);
-}
-
-.col-18 {
-    flex-basis: calc((100% / 27) * 18);
-    max-width: calc((100% / 27) * 18);
-}
-
 
 
 /* column offsets */
