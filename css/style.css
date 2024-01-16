@@ -1,9 +1,42 @@
 [class*="col-"] {
-    padding: 20px;
+    padding: 10px;
+    font-size: 10px;
+    color: white;
     border: solid 1px white;
     background-color: #006cfa;
+    text-align: center;
 }
 
 h1 {
-    font-size: 20px;
+    font-size: 14px;
+}
+
+h2 {
+    font-size: 14px;
+    padding: 8px 0;
+}
+
+h3 {
+    font-size: 12px;
+}
+
+.green {
+    border: #006cfa 1px solid;
+    background-color: #00e165;
+}
+
+.border {
+    border: #006cfa 10px solid;
+}
+
+.pb {
+    padding-bottom: 22px;
+}
+
+.empty {
+    padding: 16px;
+}
+
+.height {
+    height: 66px;
 }
