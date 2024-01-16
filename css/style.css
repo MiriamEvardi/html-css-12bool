@@ -1,0 +1,9 @@
+[class*="col-"] {
+    padding: 20px;
+    border: solid 1px white;
+    background-color: #006cfa;
+}
+
+h1 {
+    font-size: 20px;
+}
